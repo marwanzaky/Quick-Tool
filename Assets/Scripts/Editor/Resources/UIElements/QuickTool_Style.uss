@@ -10,6 +10,11 @@
     justify-content: center;
 }
 
+.quicktool-button-icon {
+    width: 32px;
+    height: 32px;
+}
+
 .quicktool-button-icon:hover {
     opacity: 1;
 }
