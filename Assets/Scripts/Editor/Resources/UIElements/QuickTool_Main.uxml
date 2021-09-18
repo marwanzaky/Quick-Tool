@@ -1,0 +1,11 @@
+<UXML xmlns="UnityEngine.UIElements">
+    <Template path="Assets/Scripts/Editor/Resources/UIElements/ButtonTemplate.uxml" name="button-template" />
+        
+    <VisualElement class="buttons-container">
+        <Instance template="button-template" name="Cube"/>
+        <Instance template="button-template" name="Sphere"/>
+        <Instance template="button-template" name="Capsule"/>
+        <Instance template="button-template" name="Cylinder"/>
+        <Instance template="button-template" name="Plane"/>
+    </VisualElement>
+</UXML>
