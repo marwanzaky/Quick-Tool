@@ -10,4 +10,4 @@
 3. Go back to the window, the new prefabs added will start be appearing on the "Custom Prefabs" section
 4. Click on a prefab to spawn
  
-<img width="497" alt="Screen Shot 2021-09-18 at 20 26 23" src="https://user-images.githubusercontent.com/64248203/133906345-2a6f2be0-d2e5-46f9-9430-b29b19f48b1e.png">
+ <img width="362" alt="Screen Shot 2021-09-20 at 02 23 05" src="https://user-images.githubusercontent.com/64248203/133949783-69d222b9-b6ef-40af-8068-d84d79d4d693.png">
