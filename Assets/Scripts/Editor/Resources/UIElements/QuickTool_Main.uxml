@@ -1,7 +1,7 @@
 <UXML xmlns="UnityEngine.UIElements">
     <Template path="Assets/Scripts/Editor/Resources/UIElements/ButtonTemplate.uxml" id="button-template" name="button-template" />
     
-    <Label text="Primitive Type"></Label>
+    <Label class="label" text="Primitive Type"></Label>
 
     <VisualElement class="buttons-container">
         <Instance class="primitive-type-button" template="button-template" name="Cube"/>
@@ -11,7 +11,7 @@
         <Instance class="primitive-type-button" template="button-template" name="Plane"/>
     </VisualElement>
 
-    <Label text="Custom Prefabs"></Label>
+    <Label class="label" text="Custom Prefabs"></Label>
 
     <VisualElement class="buttons-container custom-prefabs">
     </VisualElement>

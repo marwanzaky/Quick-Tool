@@ -23,6 +23,8 @@ public class QuickTool : EditorWindow {
         // Icon size
         var baseSettingsLabel = new Label("Base Settings");
 
+        baseSettingsLabel.AddToClassList("label");
+
         iconSize = new FloatField("Icon Size");
         iconSize.value = 50;
         iconSize.RegisterValueChangedCallback(changeEvent => {

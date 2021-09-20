@@ -1,3 +1,9 @@
+.label {
+    margin-left: 3px;
+    margin-bottom: 5px;
+    -unity-font-style: bold;
+}
+
 .buttons-container {
     flex-direction: row;
     flex-wrap: wrap;
@@ -6,13 +12,13 @@
 .quicktool-button {
     width: 50px;
     height: 50px;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
 }
 
 .quicktool-button-icon {
-    width: 32px;
-    height: 32px;
+    width: 40px;
+    height: 40px;
 }
 
 .quicktool-button-icon:hover {
